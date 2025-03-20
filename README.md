@@ -1,7 +1,3 @@
-Voici une documentation complète et adaptée pour votre nouveau projet, basée sur le README du projet précédent et ajustée pour refléter le nouveau contexte de scraping des résumés d'enquêtes de la Commission de la fonction publique du Québec (CFP). J’ai réutilisé la structure du README fourni tout en la modifiant pour correspondre aux spécificités du nouveau projet, comme décrit dans le code source.
-
----
-
 # Résumés d'enquêtes de la Commission de la fonction publique du Québec
 
 Ce projet permet de télécharger et d'organiser automatiquement les résumés des enquêtes publiées par la Commission de la fonction publique du Québec (CFP) à partir de leur site web officiel, disponible à l'adresse [cfp.gouv.qc.ca](https://www.cfp.gouv.qc.ca/fr/documentation/resumes-denquete.html).
